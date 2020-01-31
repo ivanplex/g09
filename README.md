@@ -7,7 +7,7 @@ A tool for service providers to proactively answer technical service related que
 - Log negative sentiment over time for trend analysis
 
 
-# V1 - Proof of concept
+## V1 - Proof of concept
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivanplex/proactive-social-engagement/blob/master/Implementation1.ipynb)
 
